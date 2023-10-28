@@ -198,3 +198,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+<hr>
+<h2>Result</h2>
+Thus A* Algorithm has been implemented successfully using python programming.
